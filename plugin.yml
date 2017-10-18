@@ -1,0 +1,6 @@
+name: ElementaryBans
+main: ElementaryBans\ElementaryBans
+version: 1.0.0
+author: seetch
+api: [3.0.0-ALPHA9]
+description: A ban system that allows to temporarily/permanently ban/mute/block and kick players/IP address.

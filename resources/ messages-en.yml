@@ -1,0 +1,21 @@
+---
+messages-version: "1.0.0"
+language: "en"
+
+noPermission: "You don't have enough access to do that."
+playerNotFound: "Player is not online."
+playerAlreadyBanned: "Player is already banned."
+ipAlreadyBanned: "Player is already IP banned."
+ipNotBanned: "IP address is not banned."
+ipAlreadyMuted: "IP address is already muted."
+playerNotBanned: "Player is not banned."
+playerAlreadyMuted: "Player is already muted."
+playerNotMuted: "Player is not muted."
+ipNotMuted: "IP address is not muted."
+playerAlreadyBlocked: "Player is already blocked."
+playerNotBlocked: "Player is not blocked."
+ipAlreadyBlocked: "IP address is already blocked."
+ipNotBlocked: "IP address is not blocked."
+failedTranslate: "Failed to translate."
+usage: "Usage: "
+...
